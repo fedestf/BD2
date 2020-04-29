@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Ruso-Note/Google Drive/UNLa/4°to Año/Base de Datos 2/Librerias/bson-3.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ruso-Note/Google Drive/UNLa/4°to Año/Base de Datos 2/Librerias/mongodb-driver-3.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ruso-Note/Google Drive/UNLa/4°to Año/Base de Datos 2/Librerias/mongodb-driver-core-3.4.3.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
